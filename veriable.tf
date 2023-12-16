@@ -15,6 +15,6 @@ variable  "ami" {
 }
 
 variable  "control" {
-           default = "private "
+           default = "private tf"
 
 }
